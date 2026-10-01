@@ -1,0 +1,387 @@
+lecturer_id,num_classes,lesson_planning_score,learning_process_score,learning_assessment_score,total_lps
+LEC_001,7,30.0,40.0,30.0,100.0
+LEC_002,12,30.0,39.4,30.0,99.4
+LEC_003,6,30.0,37.1,30.0,97.1
+LEC_004,7,30.0,35.7,25.7,91.4
+LEC_005,2,30.0,24.0,30.0,84.0
+LEC_006,7,30.0,23.1,30.0,83.1
+LEC_007,2,30.0,22.0,30.0,82.0
+LEC_008,8,30.0,20.7,30.0,80.7
+LEC_009,6,30.0,20.0,30.0,80.0
+LEC_010,1,30.0,20.0,30.0,80.0
+LEC_011,6,27.8,21.9,30.0,79.7
+LEC_012,9,26.7,22.4,30.0,79.1
+LEC_013,5,30.0,20.8,27.0,77.8
+LEC_014,5,25.9,20.4,30.0,76.3
+LEC_015,1,30.0,16.0,30.0,76.0
+LEC_016,8,30.0,15.8,30.0,75.8
+LEC_017,7,26.3,19.0,30.0,75.3
+LEC_018,10,30.0,14.1,30.0,74.1
+LEC_019,8,30.0,13.7,30.0,73.7
+LEC_020,8,19.7,22.8,30.0,72.5
+LEC_021,7,30.0,11.7,30.0,71.7
+LEC_022,7,13.4,28.2,30.0,71.6
+LEC_023,5,30.0,10.8,30.0,70.8
+LEC_024,10,27.0,13.6,30.0,70.6
+LEC_025,6,30.0,9.0,30.0,69.0
+LEC_026,6,22.2,16.7,30.0,68.9
+LEC_027,6,30.0,16.3,22.5,68.8
+LEC_028,11,27.3,14.9,25.9,68.1
+LEC_029,9,25.6,13.8,28.3,67.7
+LEC_030,8,28.1,12.9,26.3,67.3
+LEC_031,10,16.9,19.0,30.0,65.9
+LEC_032,6,19.4,15.7,30.0,65.1
+LEC_033,8,16.4,18.6,30.0,65.0
+LEC_034,5,26.3,13.8,24.0,64.1
+LEC_035,10,22.9,11.2,30.0,64.1
+LEC_036,7,10.5,22.9,30.0,63.4
+LEC_037,6,18.8,14.3,30.0,63.1
+LEC_038,2,30.0,9.4,22.5,61.9
+LEC_039,9,23.8,11.2,26.7,61.7
+LEC_040,6,13.1,17.8,30.0,61.0
+LEC_041,7,11.8,18.7,30.0,60.5
+LEC_042,7,20.1,9.8,30.0,59.9
+LEC_043,6,19.7,10.0,30.0,59.7
+LEC_044,8,13.4,17.2,28.1,58.7
+LEC_045,7,19.0,9.6,30.0,58.7
+LEC_046,8,16.2,18.1,24.4,58.7
+LEC_047,8,24.6,7.7,26.3,58.6
+LEC_048,4,19.2,16.9,22.5,58.6
+LEC_049,3,8.7,19.2,30.0,58.0
+LEC_050,8,11.5,19.8,26.3,57.5
+LEC_051,6,12.5,14.6,30.0,57.1
+LEC_052,2,6.6,20.0,30.0,56.6
+LEC_053,6,13.1,13.3,30.0,56.5
+LEC_054,6,10.2,16.1,30.0,56.3
+LEC_055,3,10.0,15.5,30.0,55.6
+LEC_056,7,9.9,17.7,27.9,55.5
+LEC_057,5,11.6,16.7,27.0,55.4
+LEC_058,1,15.0,10.0,30.0,55.0
+LEC_059,6,23.4,8.9,22.5,54.8
+LEC_060,2,3.8,20.0,30.0,53.8
+LEC_061,11,7.5,17.8,27.3,52.5
+LEC_062,7,2.4,19.3,30.0,51.7
+LEC_063,7,8.2,17.7,25.7,51.6
+LEC_064,7,15.3,10.0,25.7,51.0
+LEC_065,4,11.7,9.1,30.0,50.8
+LEC_066,9,0.0,20.0,30.0,50.0
+LEC_067,7,2.2,20.0,27.9,50.0
+LEC_068,4,1.4,18.5,30.0,49.9
+LEC_069,7,9.7,10.1,30.0,49.8
+LEC_070,11,15.5,10.6,23.2,49.3
+LEC_071,9,12.9,9.3,26.7,48.9
+LEC_072,1,8.8,10.0,30.0,48.8
+LEC_073,8,14.5,9.7,24.4,48.6
+LEC_074,6,13.5,12.0,22.5,47.9
+LEC_075,7,7.4,10.0,30.0,47.4
+LEC_076,10,14.1,9.2,24.0,47.3
+LEC_077,11,12.1,11.7,23.2,47.0
+LEC_078,7,7.5,11.4,27.9,46.8
+LEC_079,7,12.9,14.6,19.3,46.8
+LEC_080,8,4.7,19.4,22.5,46.6
+LEC_081,7,3.5,17.1,25.7,46.4
+LEC_082,7,0.0,15.9,30.0,45.9
+LEC_083,4,1.4,14.2,30.0,45.7
+LEC_084,7,5.6,10.0,30.0,45.6
+LEC_085,2,0.0,15.5,30.0,45.5
+LEC_086,5,4.5,10.8,30.0,45.3
+LEC_087,8,4.7,14.3,26.3,45.2
+LEC_088,6,13.8,8.5,22.5,44.8
+LEC_089,6,12.1,10.1,22.5,44.6
+LEC_090,6,16.3,12.9,15.0,44.2
+LEC_091,9,15.5,15.4,13.3,44.2
+LEC_092,8,3.3,10.7,30.0,44.0
+LEC_093,10,2.7,10.4,30.0,43.1
+LEC_094,7,15.3,8.6,19.3,43.1
+LEC_095,2,0.0,20.0,22.5,42.5
+LEC_096,7,30.0,10.0,2.1,42.1
+LEC_097,6,9.7,14.8,17.5,42.0
+LEC_098,3,0.6,10.8,30.0,41.5
+LEC_099,7,0.3,15.2,25.7,41.2
+LEC_100,5,12.8,10.2,18.0,40.9
+LEC_101,2,30.0,10.3,0.0,40.3
+LEC_102,8,0.2,10.0,30.0,40.2
+LEC_103,8,4.2,9.7,26.3,40.1
+LEC_104,9,30.0,10.0,0.0,40.0
+LEC_105,5,0.0,10.0,30.0,40.0
+LEC_106,4,0.0,10.0,30.0,40.0
+LEC_107,2,22.5,10.0,7.5,40.0
+LEC_108,1,0.0,10.0,30.0,40.0
+LEC_109,1,30.0,10.0,0.0,40.0
+LEC_110,9,0.0,12.9,26.7,39.6
+LEC_111,8,0.5,16.3,22.5,39.2
+LEC_112,8,9.9,10.4,18.8,39.0
+LEC_113,8,7.3,9.1,22.5,38.9
+LEC_114,9,3.8,10.0,25.0,38.8
+LEC_115,8,2.4,6.4,30.0,38.8
+LEC_116,7,4.0,13.3,21.4,38.7
+LEC_117,6,0.0,8.5,30.0,38.5
+LEC_118,10,6.9,13.4,18.0,38.3
+LEC_119,9,0.8,10.8,26.7,38.3
+LEC_120,1,13.1,10.0,15.0,38.1
+LEC_121,11,26.1,9.1,2.7,37.9
+LEC_122,4,7.5,7.7,22.5,37.7
+LEC_123,7,3.5,4.0,30.0,37.5
+LEC_124,6,0.6,6.6,30.0,37.3
+LEC_125,9,3.8,14.9,18.3,37.0
+LEC_126,5,0.4,15.7,21.0,37.0
+LEC_127,6,12.5,11.9,12.5,36.9
+LEC_128,6,5.9,10.7,20.0,36.6
+LEC_129,8,10.6,12.8,13.1,36.5
+LEC_130,5,3.0,12.5,21.0,36.5
+LEC_131,6,13.2,8.4,15.0,36.5
+LEC_132,2,3.8,10.0,22.5,36.3
+LEC_133,6,6.3,15.0,15.0,36.3
+LEC_134,10,7.7,9.7,18.0,35.3
+LEC_135,9,13.3,10.0,11.7,35.0
+LEC_136,6,0.3,11.9,22.5,34.7
+LEC_137,8,1.7,3.1,30.0,34.7
+LEC_138,9,4.6,9.9,20.0,34.5
+LEC_139,4,20.6,10.0,3.8,34.4
+LEC_140,2,9.4,10.0,15.0,34.4
+LEC_141,6,4.1,12.6,17.5,34.2
+LEC_142,6,5.0,11.1,17.5,33.6
+LEC_143,7,7.3,9.0,17.1,33.4
+LEC_144,9,10.0,10.0,13.3,33.3
+LEC_145,7,1.3,8.0,23.6,32.9
+LEC_146,7,5.6,11.1,15.0,31.8
+LEC_147,7,1.1,11.4,19.3,31.8
+LEC_148,8,6.8,10.0,15.0,31.8
+LEC_149,11,0.2,9.4,21.8,31.4
+LEC_150,7,0.0,10.0,21.4,31.4
+LEC_151,8,10.1,10.0,11.3,31.4
+LEC_152,8,7.5,10.0,13.1,30.6
+LEC_153,9,3.3,8.9,18.3,30.6
+LEC_154,4,12.2,6.7,11.3,30.2
+LEC_155,4,10.8,10.0,7.5,28.3
+LEC_156,6,1.6,10.7,15.0,27.3
+LEC_157,2,0.0,11.0,15.0,26.0
+LEC_158,2,1.0,10.0,15.0,26.0
+LEC_159,7,0.0,8.6,17.1,25.7
+LEC_160,7,15.5,10.0,0.0,25.5
+LEC_161,6,0.0,10.0,15.0,25.0
+LEC_162,6,1.9,6.9,15.0,23.8
+LEC_163,5,2.3,12.0,9.0,23.2
+LEC_164,1,13.1,10.0,0.0,23.1
+LEC_165,9,12.1,10.0,0.0,22.1
+LEC_166,6,13.1,8.4,0.0,21.6
+LEC_167,8,3.5,7.8,9.4,20.7
+LEC_168,6,5.3,10.1,5.0,20.4
+LEC_169,2,2.8,10.0,7.5,20.3
+LEC_170,4,5.2,15.0,0.0,20.2
+LEC_171,8,8.2,10.0,1.9,20.1
+LEC_172,6,0.0,10.0,10.0,20.0
+LEC_173,3,0.0,10.0,10.0,20.0
+LEC_174,8,8.5,9.5,1.9,19.9
+LEC_175,10,1.0,8.3,10.5,19.8
+LEC_176,8,0.0,11.3,7.5,18.8
+LEC_177,6,7.2,10.7,0.0,17.9
+LEC_178,7,0.5,8.6,8.6,17.7
+LEC_179,8,7.6,10.0,0.0,17.6
+LEC_180,1,7.5,10.0,0.0,17.5
+LEC_181,8,7.1,10.0,0.0,17.1
+LEC_182,10,2.3,9.7,4.5,16.5
+LEC_183,8,3.5,9.2,3.8,16.5
+LEC_184,3,1.3,10.0,5.0,16.3
+LEC_185,6,0.6,11.7,2.5,14.8
+LEC_186,7,0.8,11.4,2.1,14.4
+LEC_187,10,2.1,9.3,3.0,14.4
+LEC_188,9,5.4,7.2,1.7,14.3
+LEC_189,9,5.4,8.9,0.0,14.3
+LEC_190,10,4.0,10.0,0.0,14.0
+LEC_191,5,0.4,10.2,3.0,13.6
+LEC_192,4,3.3,10.0,0.0,13.3
+LEC_193,7,1.9,11.1,0.0,13.0
+LEC_194,6,2.9,10.0,0.0,12.9
+LEC_195,6,0.9,7.0,5.0,12.9
+LEC_196,6,0.3,10.0,2.5,12.8
+LEC_197,8,2.3,10.0,0.0,12.3
+LEC_198,6,2.2,10.0,0.0,12.2
+LEC_199,8,2.1,10.0,0.0,12.1
+LEC_200,8,2.1,10.0,0.0,12.1
+LEC_201,1,1.9,10.0,0.0,11.9
+LEC_202,2,1.9,10.0,0.0,11.9
+LEC_203,10,2.5,9.3,0.0,11.8
+LEC_204,9,1.9,9.3,0.0,11.2
+LEC_205,6,1.0,2.5,7.5,11.0
+LEC_206,10,1.7,9.0,0.0,10.7
+LEC_207,8,0.5,10.0,0.0,10.5
+LEC_208,9,0.4,10.0,0.0,10.4
+LEC_209,6,0.9,9.5,0.0,10.4
+LEC_210,7,1.6,8.6,0.0,10.2
+LEC_211,7,0.0,10.0,0.0,10.0
+LEC_212,7,0.0,10.0,0.0,10.0
+LEC_213,1,0.0,10.0,0.0,10.0
+LEC_214,7,0.0,10.0,0.0,10.0
+LEC_215,2,0.0,10.0,0.0,10.0
+LEC_216,7,0.0,10.0,0.0,10.0
+LEC_217,5,0.0,10.0,0.0,10.0
+LEC_218,7,0.0,10.0,0.0,10.0
+LEC_219,9,0.0,10.0,0.0,10.0
+LEC_220,6,0.0,10.0,0.0,10.0
+LEC_221,6,0.0,10.0,0.0,10.0
+LEC_222,6,0.0,10.0,0.0,10.0
+LEC_223,7,0.0,10.0,0.0,10.0
+LEC_224,7,0.0,10.0,0.0,10.0
+LEC_225,7,0.0,10.0,0.0,10.0
+LEC_226,6,0.0,10.0,0.0,10.0
+LEC_227,6,0.0,10.0,0.0,10.0
+LEC_228,5,0.0,10.0,0.0,10.0
+LEC_229,9,0.0,10.0,0.0,10.0
+LEC_230,3,0.0,10.0,0.0,10.0
+LEC_231,3,0.0,10.0,0.0,10.0
+LEC_232,2,0.0,10.0,0.0,10.0
+LEC_233,7,0.0,10.0,0.0,10.0
+LEC_234,8,0.0,10.0,0.0,10.0
+LEC_235,8,0.0,10.0,0.0,10.0
+LEC_236,9,0.0,10.0,0.0,10.0
+LEC_237,8,0.0,10.0,0.0,10.0
+LEC_238,8,0.0,10.0,0.0,10.0
+LEC_239,3,0.0,10.0,0.0,10.0
+LEC_240,1,0.0,10.0,0.0,10.0
+LEC_241,2,0.0,10.0,0.0,10.0
+LEC_242,3,0.0,10.0,0.0,10.0
+LEC_243,3,0.0,10.0,0.0,10.0
+LEC_244,2,0.0,10.0,0.0,10.0
+LEC_245,2,0.0,10.0,0.0,10.0
+LEC_246,2,0.0,10.0,0.0,10.0
+LEC_247,12,1.1,8.5,0.0,9.6
+LEC_248,8,0.0,9.3,0.0,9.3
+LEC_249,9,0.0,9.3,0.0,9.3
+LEC_250,8,0.0,9.1,0.0,9.1
+LEC_251,9,0.2,8.9,0.0,9.1
+LEC_252,6,0.0,8.9,0.0,8.9
+LEC_253,6,0.3,8.3,0.0,8.7
+LEC_254,7,0.0,8.6,0.0,8.6
+LEC_255,6,0.0,7.9,0.0,7.9
+LEC_256,8,0.0,7.5,0.0,7.5
+LEC_257,2,0.0,7.5,0.0,7.5
+LEC_258,3,0.6,6.5,0.0,7.1
+LEC_259,7,0.0,7.1,0.0,7.1
+LEC_260,3,0.0,6.7,0.0,6.7
+LEC_261,9,0.0,6.3,0.0,6.3
+LEC_262,1,0.0,5.6,0.0,5.6
+LEC_263,12,0.9,4.5,0.0,5.4
+LEC_264,2,1.0,3.8,0.0,4.8
+LEC_265,2,0.0,4.7,0.0,4.7
+LEC_266,1,0.0,3.1,0.0,3.1
+LEC_267,Tidak ada kelas yang diajar di periode ini.,0.0,0.0,0.0,0.0
+LEC_268,Tidak ada kelas yang diajar di periode ini.,0.0,0.0,0.0,0.0
+LEC_269,Tidak ada kelas yang diajar di periode ini.,0.0,0.0,0.0,0.0
+LEC_270,Tidak ada kelas yang diajar di periode ini.,0.0,0.0,0.0,0.0
+LEC_271,Tidak ada kelas yang diajar di periode ini.,0.0,0.0,0.0,0.0
+LEC_272,Tidak ada kelas yang diajar di periode ini.,0.0,0.0,0.0,0.0
+LEC_273,Tidak ada kelas yang diajar di periode ini.,0.0,0.0,0.0,0.0
+LEC_274,Tidak ada kelas yang diajar di periode ini.,0.0,0.0,0.0,0.0
+LEC_275,Tidak ada kelas yang diajar di periode ini.,0.0,0.0,0.0,0.0
+LEC_276,Tidak ada kelas yang diajar di periode ini.,0.0,0.0,0.0,0.0
+LEC_277,Tidak ada kelas yang diajar di periode ini.,0.0,0.0,0.0,0.0
+LEC_278,Tidak ada kelas yang diajar di periode ini.,0.0,0.0,0.0,0.0
+LEC_279,Tidak ada kelas yang diajar di periode ini.,0.0,0.0,0.0,0.0
+LEC_280,Tidak ada kelas yang diajar di periode ini.,0.0,0.0,0.0,0.0
+LEC_281,Tidak ada kelas yang diajar di periode ini.,0.0,0.0,0.0,0.0
+LEC_282,Tidak ada kelas yang diajar di periode ini.,0.0,0.0,0.0,0.0
+LEC_283,Tidak ada kelas yang diajar di periode ini.,0.0,0.0,0.0,0.0
+LEC_284,Tidak ada kelas yang diajar di periode ini.,0.0,0.0,0.0,0.0
+LEC_285,Tidak ada kelas yang diajar di periode ini.,0.0,0.0,0.0,0.0
+LEC_286,Tidak ada kelas yang diajar di periode ini.,0.0,0.0,0.0,0.0
+LEC_287,Tidak ada kelas yang diajar di periode ini.,0.0,0.0,0.0,0.0
+LEC_288,Tidak ada kelas yang diajar di periode ini.,0.0,0.0,0.0,0.0
+LEC_289,Tidak ada kelas yang diajar di periode ini.,0.0,0.0,0.0,0.0
+LEC_290,Tidak ada kelas yang diajar di periode ini.,0.0,0.0,0.0,0.0
+LEC_291,Tidak ada kelas yang diajar di periode ini.,0.0,0.0,0.0,0.0
+LEC_292,Tidak ada kelas yang diajar di periode ini.,0.0,0.0,0.0,0.0
+LEC_293,Tidak ada kelas yang diajar di periode ini.,0.0,0.0,0.0,0.0
+LEC_294,Tidak ada kelas yang diajar di periode ini.,0.0,0.0,0.0,0.0
+LEC_295,Tidak ada kelas yang diajar di periode ini.,0.0,0.0,0.0,0.0
+LEC_296,Tidak ada kelas yang diajar di periode ini.,0.0,0.0,0.0,0.0
+LEC_297,Tidak ada kelas yang diajar di periode ini.,0.0,0.0,0.0,0.0
+LEC_298,Tidak ada kelas yang diajar di periode ini.,0.0,0.0,0.0,0.0
+LEC_299,Tidak ada kelas yang diajar di periode ini.,0.0,0.0,0.0,0.0
+LEC_300,Tidak ada kelas yang diajar di periode ini.,0.0,0.0,0.0,0.0
+LEC_301,Tidak ada kelas yang diajar di periode ini.,0.0,0.0,0.0,0.0
+LEC_302,Tidak ada kelas yang diajar di periode ini.,0.0,0.0,0.0,0.0
+LEC_303,Tidak ada kelas yang diajar di periode ini.,0.0,0.0,0.0,0.0
+LEC_304,Tidak ada kelas yang diajar di periode ini.,0.0,0.0,0.0,0.0
+LEC_305,Tidak ada kelas yang diajar di periode ini.,0.0,0.0,0.0,0.0
+LEC_306,Tidak ada kelas yang diajar di periode ini.,0.0,0.0,0.0,0.0
+LEC_307,Tidak ada kelas yang diajar di periode ini.,0.0,0.0,0.0,0.0
+LEC_308,Tidak ada kelas yang diajar di periode ini.,0.0,0.0,0.0,0.0
+LEC_309,Tidak ada kelas yang diajar di periode ini.,0.0,0.0,0.0,0.0
+LEC_310,Tidak ada kelas yang diajar di periode ini.,0.0,0.0,0.0,0.0
+LEC_311,Tidak ada kelas yang diajar di periode ini.,0.0,0.0,0.0,0.0
+LEC_312,Tidak ada kelas yang diajar di periode ini.,0.0,0.0,0.0,0.0
+LEC_313,Tidak ada kelas yang diajar di periode ini.,0.0,0.0,0.0,0.0
+LEC_314,Tidak ada kelas yang diajar di periode ini.,0.0,0.0,0.0,0.0
+LEC_315,Tidak ada kelas yang diajar di periode ini.,0.0,0.0,0.0,0.0
+LEC_316,Tidak ada kelas yang diajar di periode ini.,0.0,0.0,0.0,0.0
+LEC_317,Tidak ada kelas yang diajar di periode ini.,0.0,0.0,0.0,0.0
+LEC_318,Tidak ada kelas yang diajar di periode ini.,0.0,0.0,0.0,0.0
+LEC_319,Tidak ada kelas yang diajar di periode ini.,0.0,0.0,0.0,0.0
+LEC_320,Tidak ada kelas yang diajar di periode ini.,0.0,0.0,0.0,0.0
+LEC_321,Tidak ada kelas yang diajar di periode ini.,0.0,0.0,0.0,0.0
+LEC_322,Tidak ada kelas yang diajar di periode ini.,0.0,0.0,0.0,0.0
+LEC_323,Tidak ada kelas yang diajar di periode ini.,0.0,0.0,0.0,0.0
+LEC_324,Tidak ada kelas yang diajar di periode ini.,0.0,0.0,0.0,0.0
+LEC_325,Tidak ada kelas yang diajar di periode ini.,0.0,0.0,0.0,0.0
+LEC_326,Tidak ada kelas yang diajar di periode ini.,0.0,0.0,0.0,0.0
+LEC_327,Tidak ada kelas yang diajar di periode ini.,0.0,0.0,0.0,0.0
+LEC_328,Tidak ada kelas yang diajar di periode ini.,0.0,0.0,0.0,0.0
+LEC_329,Tidak ada kelas yang diajar di periode ini.,0.0,0.0,0.0,0.0
+LEC_330,Tidak ada kelas yang diajar di periode ini.,0.0,0.0,0.0,0.0
+LEC_331,Tidak ada kelas yang diajar di periode ini.,0.0,0.0,0.0,0.0
+LEC_332,Tidak ada kelas yang diajar di periode ini.,0.0,0.0,0.0,0.0
+LEC_333,Tidak ada kelas yang diajar di periode ini.,0.0,0.0,0.0,0.0
+LEC_334,Tidak ada kelas yang diajar di periode ini.,0.0,0.0,0.0,0.0
+LEC_335,Tidak ada kelas yang diajar di periode ini.,0.0,0.0,0.0,0.0
+LEC_336,Tidak ada kelas yang diajar di periode ini.,0.0,0.0,0.0,0.0
+LEC_337,Tidak ada kelas yang diajar di periode ini.,0.0,0.0,0.0,0.0
+LEC_338,Tidak ada kelas yang diajar di periode ini.,0.0,0.0,0.0,0.0
+LEC_339,Tidak ada kelas yang diajar di periode ini.,0.0,0.0,0.0,0.0
+LEC_340,Tidak ada kelas yang diajar di periode ini.,0.0,0.0,0.0,0.0
+LEC_341,Tidak ada kelas yang diajar di periode ini.,0.0,0.0,0.0,0.0
+LEC_342,Tidak ada kelas yang diajar di periode ini.,0.0,0.0,0.0,0.0
+LEC_343,Tidak ada kelas yang diajar di periode ini.,0.0,0.0,0.0,0.0
+LEC_344,Tidak ada kelas yang diajar di periode ini.,0.0,0.0,0.0,0.0
+LEC_345,Tidak ada kelas yang diajar di periode ini.,0.0,0.0,0.0,0.0
+LEC_346,Tidak ada kelas yang diajar di periode ini.,0.0,0.0,0.0,0.0
+LEC_347,Tidak ada kelas yang diajar di periode ini.,0.0,0.0,0.0,0.0
+LEC_348,Tidak ada kelas yang diajar di periode ini.,0.0,0.0,0.0,0.0
+LEC_349,Tidak ada kelas yang diajar di periode ini.,0.0,0.0,0.0,0.0
+LEC_350,Tidak ada kelas yang diajar di periode ini.,0.0,0.0,0.0,0.0
+LEC_351,Tidak ada kelas yang diajar di periode ini.,0.0,0.0,0.0,0.0
+LEC_352,Tidak ada kelas yang diajar di periode ini.,0.0,0.0,0.0,0.0
+LEC_353,Tidak ada kelas yang diajar di periode ini.,0.0,0.0,0.0,0.0
+LEC_354,Tidak ada kelas yang diajar di periode ini.,0.0,0.0,0.0,0.0
+LEC_355,Tidak ada kelas yang diajar di periode ini.,0.0,0.0,0.0,0.0
+LEC_356,Tidak ada kelas yang diajar di periode ini.,0.0,0.0,0.0,0.0
+LEC_357,Tidak ada kelas yang diajar di periode ini.,0.0,0.0,0.0,0.0
+LEC_358,Tidak ada kelas yang diajar di periode ini.,0.0,0.0,0.0,0.0
+LEC_359,Tidak ada kelas yang diajar di periode ini.,0.0,0.0,0.0,0.0
+LEC_360,Tidak ada kelas yang diajar di periode ini.,0.0,0.0,0.0,0.0
+LEC_361,Tidak ada kelas yang diajar di periode ini.,0.0,0.0,0.0,0.0
+LEC_362,Tidak ada kelas yang diajar di periode ini.,0.0,0.0,0.0,0.0
+LEC_363,Tidak ada kelas yang diajar di periode ini.,0.0,0.0,0.0,0.0
+LEC_364,Tidak ada kelas yang diajar di periode ini.,0.0,0.0,0.0,0.0
+LEC_365,Tidak ada kelas yang diajar di periode ini.,0.0,0.0,0.0,0.0
+LEC_366,Tidak ada kelas yang diajar di periode ini.,0.0,0.0,0.0,0.0
+LEC_367,Tidak ada kelas yang diajar di periode ini.,0.0,0.0,0.0,0.0
+LEC_368,Tidak ada kelas yang diajar di periode ini.,0.0,0.0,0.0,0.0
+LEC_369,Tidak ada kelas yang diajar di periode ini.,0.0,0.0,0.0,0.0
+LEC_370,Tidak ada kelas yang diajar di periode ini.,0.0,0.0,0.0,0.0
+LEC_371,Tidak ada kelas yang diajar di periode ini.,0.0,0.0,0.0,0.0
+LEC_372,Tidak ada kelas yang diajar di periode ini.,0.0,0.0,0.0,0.0
+LEC_373,Tidak ada kelas yang diajar di periode ini.,0.0,0.0,0.0,0.0
+LEC_374,Tidak ada kelas yang diajar di periode ini.,0.0,0.0,0.0,0.0
+LEC_375,Tidak ada kelas yang diajar di periode ini.,0.0,0.0,0.0,0.0
+LEC_376,Tidak ada kelas yang diajar di periode ini.,0.0,0.0,0.0,0.0
+LEC_377,Tidak ada kelas yang diajar di periode ini.,0.0,0.0,0.0,0.0
+LEC_378,Tidak ada kelas yang diajar di periode ini.,0.0,0.0,0.0,0.0
+LEC_379,Tidak ada kelas yang diajar di periode ini.,0.0,0.0,0.0,0.0
+LEC_380,Tidak ada kelas yang diajar di periode ini.,0.0,0.0,0.0,0.0
+LEC_381,Tidak ada kelas yang diajar di periode ini.,0.0,0.0,0.0,0.0
+LEC_382,Tidak ada kelas yang diajar di periode ini.,0.0,0.0,0.0,0.0
+LEC_383,Tidak ada kelas yang diajar di periode ini.,0.0,0.0,0.0,0.0
+LEC_384,Tidak ada kelas yang diajar di periode ini.,0.0,0.0,0.0,0.0
+LEC_385,Tidak ada kelas yang diajar di periode ini.,0.0,0.0,0.0,0.0
+LEC_386,Tidak ada kelas yang diajar di periode ini.,0.0,0.0,0.0,0.0
