@@ -58,20 +58,6 @@ All datasets included in this repository have undergone strict **pseudonymizatio
 
 ---
 
-## 📄 Citation
-
-If you use this dataset or code in your research, please cite our manuscript:
-
-```bibtex
-@article{aldi2026temporal,
-  title={Temporal Representation Learning of Teaching Styles and Its Impact on Lecturer Performance in Higher Education LMS},
-  author={Aldi et al.},
-  journal={VOICE of Teacher and English Language Teaching Journal},
-  year={2026}
-}
-```
-
----
 
 ## 📜 License
 This project and dataset are licensed under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
