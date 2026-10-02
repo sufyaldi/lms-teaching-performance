@@ -1,10 +1,10 @@
-# Temporal Representation Learning of Teaching Styles & Lecturer Performance in LMS
+# Temporal Representation Learning of LMS Teaching Activity Sequences
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 
 Official repository and anonymized dataset for the paper:
-**"Temporal Representation Learning of Teaching Styles and Its Impact on Lecturer Performance in Higher Education LMS"**
+**"Temporal Representation Learning of LMS Teaching Activity Sequences for Predicting Lecturer Performance in Higher Education"**
 
 ---
 
@@ -58,6 +58,20 @@ All datasets included in this repository have undergone strict **pseudonymizatio
 
 ---
 
+## 📄 Citation
+
+If you use this dataset or code in your research, please cite our manuscript:
+
+```bibtex
+@article{sufyaldy2026temporal,
+  title={Temporal Representation Learning of LMS Teaching Activity Sequences for Predicting Lecturer Performance in Higher Education},
+  author={Sufyaldy and Kudin, Mawardi and Ahsan, Muhammad and Maemunah and Kavari, Karkhi Mirza},
+  journal={Journal of Vocational, Informatics and Computer Education},
+  year={2026}
+}
+```
+
+---
 
 ## 📜 License
 This project and dataset are licensed under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
